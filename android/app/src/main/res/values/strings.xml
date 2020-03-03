@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iTutor</string>
+    <string name="facebook_app_id">1310998305954974</string>
+    <string name="fb_login_protocol_scheme">fb1310998305954974</string>
+
+</resources>

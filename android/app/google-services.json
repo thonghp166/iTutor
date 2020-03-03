@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465492757962",
+    "firebase_url": "https://itutor-46e35.firebaseio.com",
+    "project_id": "itutor-46e35",
+    "storage_bucket": "itutor-46e35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465492757962:android:2429f585ee49fc234cd333",
+        "android_client_info": {
+          "package_name": "com.example.itutor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465492757962-1h8uva4bi6jseep5emusl1amtitvb9on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0tcGRMvjeqM9CI1ibQJA-j0iV8lSbY4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465492757962-1h8uva4bi6jseep5emusl1amtitvb9on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
